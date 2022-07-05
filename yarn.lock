@@ -6043,9 +6043,9 @@ react-native-safe-area-view@^0.14.9:
     hoist-non-react-statics "^2.3.1"
 
 react-native-screens@^3.0.0:
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-3.9.0.tgz#39b79f0e50b9d68ec822d333bc76e7aaee90f3fd"
-  integrity sha512-TP/kASLQ/2iGCz4/n9CHeveKC9urzbfYXFH+1TfBnqaBwjIszhVuadiIOQ0qWKdSs6qnBR2xPTp9U18sNoc34A==
+  version "3.14.1"
+  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-3.14.1.tgz#9eca8ef524cc0466701779498d128d820cc06f69"
+  integrity sha512-QkaiYEx5kuAkLjfN+AmR7FC9jyzohqnc5T1PBi35oZtGiLMoyTJIzyep/g8458++WvDwm0vismIifaNHsWFyHg==
   dependencies:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
